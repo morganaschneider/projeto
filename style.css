@@ -1,0 +1,38 @@
+/* {
+border: 1px dashed #33cc33; 
+*/
+
+body {
+  background-color: black;
+  color: #33cc33;
+}
+
+.header {
+  text-align: center;
+}
+
+.header-img {
+  border-radius: 50%;
+  border: 3px solid #33cc33;
+ 
+}
+
+.content {
+  font-family: Fira Code;
+}
+
+.footer {
+  text-align: center;
+
+}
+
+mark {
+background-color: #33cc33;
+color: black;
+}
+
+.link {
+  text-decoration: overline;
+  color: #33cc33;
+  font-weight: 600;
+}
